@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "GodzzBPT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Pearl_Smp_S1.aternos.me",
-    "port": 37865,
+    "ip": "DEXLESMP.aternos.me",
+    "port": 35923,
     "version": "",
     "try-creative": false
   },
